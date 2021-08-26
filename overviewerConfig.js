@@ -41,7 +41,7 @@ var overviewerConfig = {
     },
     "tilesets": [
         {
-            "name": "Overviewer Render (smooth_lighting)",
+            "name": "nevergonnagiveyouup.ddns.net",
             "zoomLevels": 9,
             "defaultZoom": 1,
             "maxZoom": 9,
@@ -55,9 +55,9 @@ var overviewerConfig = {
             "poititle": "Markers",
             "showlocationmarker": true,
             "center": [
-                127,
+                115,
                 64,
-                -206
+                -174
             ],
             "minZoom": 0,
             "spawn": [
