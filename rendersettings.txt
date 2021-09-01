@@ -1,0 +1,1 @@
+.\overviewer.exe --rendermodes=smooth-lighting C:\Users\vonpa\OneDrive\Dokumente\GitHub\render
