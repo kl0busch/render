@@ -27,7 +27,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1629989500",
+        "cacheTag": "1630496159",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -41,23 +41,23 @@ var overviewerConfig = {
     },
     "tilesets": [
         {
-            "name": "nevergonnagiveyouup.ddns.net",
-            "zoomLevels": 9,
+             "name": "nevergonnagiveyouup.ddns.net",
+            "zoomLevels": 8,
             "defaultZoom": 1,
-            "maxZoom": 9,
+            "maxZoom": 8,
             "path": "world-smooth_lighting",
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "world",
-            "last_rendertime": 1629987252,
+            "last_rendertime": 1630495029,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
             "showlocationmarker": true,
             "center": [
-                115,
+                127,
                 64,
-                -174
+                -206
             ],
             "minZoom": 0,
             "spawn": [
