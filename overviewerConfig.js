@@ -41,7 +41,7 @@ var overviewerConfig = {
     },
     "tilesets": [
         {
-            "name": "Overviewer Render (smooth_lighting)",
+            "name": "nevergonnagiveyouup.ddns.net",
             "zoomLevels": 9,
             "defaultZoom": 1,
             "maxZoom": 9,
